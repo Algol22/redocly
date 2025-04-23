@@ -1,6 +1,6 @@
 # Warp Guides
 
-Welcome to the Warp Guides! Whether you're just getting started or looking to dive deep into advanced time manipulation techniques, this is the place to find all the information you need. Below, you'll find a list of guides categorized to help you navigate through the different aspects of using Warp.
+Welcome to the Warp Guides! Whether you're just getting started or looking to dive deep into advanced time manipulation techniques, this is the place to find all the information you need. Below, you'll find a list of guides categorized to help you navigate through the different aspects of using Warp.......
 
 ## Quickstart
 
